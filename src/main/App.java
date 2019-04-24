@@ -1,4 +1,4 @@
-package main.com.jenkins.demo;
+package main;
 
 /**
  * Hello world!

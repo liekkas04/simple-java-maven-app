@@ -27,7 +27,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>main.com.jenkins.demo.App</mainClass>
+              <mainClass>main.App</mainClass>
             </manifest>
           </archive>
         </configuration>

@@ -3,7 +3,7 @@ package test;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-import main.com.jenkins.demo.App;
+import main.App;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.After;
