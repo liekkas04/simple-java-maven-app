@@ -1,11 +1,14 @@
-package com.mycompany.app;
+package test.java.com.mycompany.app;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
+
+import main.java.com.mycompany.app.App;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.After;
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.fail;
 
 /**
  * Unit test for simple App.
