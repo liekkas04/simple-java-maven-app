@@ -1,4 +1,4 @@
-package main.java.com.mycompany.app;
+package main.com.jenkins.demo;
 
 /**
  * Hello world!

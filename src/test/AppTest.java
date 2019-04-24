@@ -1,9 +1,9 @@
-package test.java.com.mycompany.app;
+package test;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-import main.java.com.mycompany.app.App;
+import main.com.jenkins.demo.App;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.After;
